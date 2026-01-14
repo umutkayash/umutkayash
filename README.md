@@ -1,5 +1,4 @@
-# 💫 About Me:
-👨‍💻 Cybersecurity enthusiast with a focus on AI, Python, IoT devices, hacking and general cybersecurity for everything.<br><br>🔍 Passionate about penetration testing, security vulnerabilities, and advanced hacking techniques.<br><br>📚 Currently exploring open-source projects, micro saas app`s and advanced hacking tools.<br><br>💬 Ask me about anything related to cybersecurity, penetration testing, Python, IoT hacking, or related fields!<br><br>📫 Reach me at: <a href="mailto:umutkbusiness@gmail.com">umutkbusiness@gmail.com</a><br><br>🎧 Fun fact: I code better with music!<br>
+👨‍💻 Cybersecurity enthusiast with a focus on AI, Python, IoT devices and general cybersecurity for everything.<br><br>🔍 Passionate about penetration testing, security vulnerabilities, and advanced hacking techniques.<br><br>📚 Currently exploring open-source projects, micro saas app`s and advanced tools.<br><br>💬 Ask me about anything related to cybersecurity, IoT hacking, or related fields!<br><br>📫 Reach me at: <a href="mailto:umutkbusiness@gmail.com">umutkbusiness@gmail.com</a><br><br>🎧 Fun fact: I code better with music!<br>
 
 
 ## 🌐 Socials:
